@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "ivan",
+      "empresa": "El Aguila",
+      "email": "sadfsdf@gmail.com",
+      "telefono": "4235235235235",
+      "notas": "cliente el aguila",
+      "id": 1
+    },
+    {
+      "nombre": "Nicolas",
+      "empresa": "Corralon Sanchez",
+      "email": "ivan@gmail.com",
+      "telefono": "5345345345",
+      "notas": "presupuesto",
+      "id": 2
+    },
+    {
+      "nombre": "Gimema",
+      "empresa": "Danzas Gimena",
+      "email": "nicolas@correo.com",
+      "telefono": "124125123546",
+      "notas": "",
+      "id": 3
+    }
+  ]
+}
