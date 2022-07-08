@@ -1,7 +1,7 @@
 {
   "clientes": [
     {
-      "nombre": "ivan",
+      "nombre": "ivan Actualizado",
       "empresa": "El Aguila",
       "email": "sadfsdf@gmail.com",
       "telefono": "4235235235235",
@@ -9,20 +9,12 @@
       "id": 1
     },
     {
-      "nombre": "Nicolas",
-      "empresa": "Corralon Sanchez",
-      "email": "ivan@gmail.com",
-      "telefono": "5345345345",
-      "notas": "presupuesto",
-      "id": 2
-    },
-    {
-      "nombre": "Gimema",
-      "empresa": "Danzas Gimena",
-      "email": "nicolas@correo.com",
-      "telefono": "124125123546",
-      "notas": "",
-      "id": 3
+      "nombre": "Agustina",
+      "empresa": "Quiniela Agustina",
+      "email": "hola@gmail.com",
+      "telefono": "3254235235",
+      "notas": "hola que tal",
+      "id": 4
     }
   ]
 }
